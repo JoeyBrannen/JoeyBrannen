@@ -2,7 +2,7 @@ Joey Brannen
 
 Born and raised in Houston, Texas.
 
-I have never been out of the country before.
+Fun Fact: I have never been out of the country before.
 
 My favorite classes/subjects are calc, CS, and robotics.
 
