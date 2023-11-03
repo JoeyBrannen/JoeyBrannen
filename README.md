@@ -17,5 +17,6 @@ My favorite animals are dogs and cats.
   - Ice Cream: Cookies and Cream
   - Fiction Book: A Dance with Dragons by George R.R. Martin
   - Non-Fiction Book: Don't know
+  - Holiday: Christmas/Winter Break
   - Video Game: Halo
   - Cookie: Chocolate Chip
