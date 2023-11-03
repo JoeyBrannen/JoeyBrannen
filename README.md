@@ -16,6 +16,6 @@ My favorite animals are dogs and cats.
   - Integer Number: 5
   - Ice Cream: Cookies and Cream
   - Fiction Book: A Dance with Dragons by George R.R. Martin
-  - Non-Fiction Book:
+  - Non-Fiction Book: Don't know
   - Video Game: Halo
   - Cookie: Chocolate Chip
